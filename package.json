@@ -1,0 +1,26 @@
+{
+  "name": "assesment",
+  "version": "1.0.0",
+  "description": "AssesmentFirst",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhi-prasad7042/FirstAssesment-React.git"
+  },
+  "keywords": [
+    "firstassesment",
+    "react"
+  ],
+  "author": "Abhishek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abhi-prasad7042/FirstAssesment-React/issues"
+  },
+  "homepage": "https://github.com/Abhi-prasad7042/FirstAssesment-React#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
